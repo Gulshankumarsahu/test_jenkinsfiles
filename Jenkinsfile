@@ -23,7 +23,7 @@ pipeline {
            always {
                 echo "success"
            }
-           sucess {
+           success {
                 echo "finally done!!!!"
            }
            failure {
